@@ -24,7 +24,7 @@ module Locomotive
         add :switch, url: '#', id: 'sites-picker-link'
       end
 
-      add :help, url: 'http://doc.locomotivecms.com', class: 'tutorial', id: 'help', target: '_blank'
+      add :help, url: Locomotive.config.company_url, class: 'tutorial', id: 'help', target: '_blank'
       add :logout, url: destroy_locomotive_session_path, data: { confirm: t('locomotive.messages.confirm') }, method: :delete
     end
 

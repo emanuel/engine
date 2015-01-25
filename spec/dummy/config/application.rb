@@ -49,6 +49,9 @@ module Dummy
 
     config.assets.precompile += ['locomotive_misc.js']
 
+    #define your company url to use on the beckend links for help pages, etc.
+    config.company_url = ''
+
     # config.after_initialize do |c|
     #   c.middleware.delete(Sass::Plugin::Rack)
     # end
