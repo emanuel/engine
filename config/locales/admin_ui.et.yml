@@ -39,6 +39,7 @@ et:
         see: Vaata kodulehte
         switch: Vali teine sait
         help: Abi
+        help_url: doc.locomotivecms.com
         logout: Välju
       menu:
         contents: Sisu

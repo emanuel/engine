@@ -39,6 +39,7 @@ sk:
         see: Ukázať web
         switch: Prepnúť na iný web
         help: Nápoveda
+        help_url: doc.locomotivecms.com
         logout: Odhlásenie
       menu:
         contents: Obsahy

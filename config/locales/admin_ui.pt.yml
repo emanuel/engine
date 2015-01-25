@@ -39,6 +39,7 @@ pt:
         see: Ver websiste
         switch: Ir para outro site
         help: Ajuda
+        help_url: doc.locomotivecms.com
         logout: Sair
       menu:
         contents: Conteúdos

@@ -39,6 +39,7 @@ ja:
         see: サイトを見る
         switch: サイトを切り替える
         help: ヘルプ
+        help_url: doc.locomotivecms.com
         logout: ログアウト
       menu:
         contents: コンテンツ

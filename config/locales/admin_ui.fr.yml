@@ -49,6 +49,7 @@ fr:
         see: Voir le site
         switch: Passer à un autre site
         help: Aide
+        help_url: doc.locomotivecms.com
         logout: Se déconnecter
       menu:
         contents: Contenu

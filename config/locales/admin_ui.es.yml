@@ -48,6 +48,7 @@ es:
         see: Ver Sitio
         switch: Cambiar de sitio
         help: Ayuda
+        help_url: doc.locomotivecms.com
         logout: Salir
       menu:
         contents: Contenido

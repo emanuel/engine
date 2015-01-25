@@ -35,6 +35,7 @@ nl:
       header:
         welcome: Welkom, %{name}
         see: Bekijk website
+        help_url: doc.locomotivecms.com
         logout: Uitloggen
       menu:
         contents: Inhoud

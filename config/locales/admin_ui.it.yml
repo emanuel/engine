@@ -38,6 +38,7 @@ it:
         see: Vedi il sito web
         switch: Passa ad un altro sito
         help: Aiuto
+        help_url: doc.locomotivecms.com
         logout: Esci
       menu:
         contents: Contenuti
