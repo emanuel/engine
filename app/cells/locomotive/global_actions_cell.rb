@@ -24,7 +24,9 @@ module Locomotive
         add :switch, url: '#', id: 'sites-picker-link'
       end
 
-      add :help, url: localize_label("help_url"), class: 'tutorial', id: 'help', target: '_blank'
+      help_url = localize_label("help_url")
+
+      add :help, url: help_url, class: 'tutorial', id: 'help', target: '_blank' unless help_url.blank?
       add :logout, url: destroy_locomotive_session_path, data: { confirm: t('locomotive.messages.confirm') }, method: :delete
     end
 
