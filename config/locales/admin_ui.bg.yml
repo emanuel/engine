@@ -38,7 +38,7 @@ en:
         see: Виж сайта
         switch: Премини към друг сайт
         help: Помощ
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Изход
       menu:
         contents: Съдържание

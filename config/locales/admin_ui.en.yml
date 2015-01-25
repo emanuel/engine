@@ -39,7 +39,7 @@ en:
         see: See website
         switch: Switch to another site
         help: Help
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Log out
       menu:
         contents: Contents

@@ -39,7 +39,7 @@ sr:
         see: Погледај вебсајт
         switch: Пребаци на други сајт
         help: Помоћ
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Одјава
       menu:
         contents: Садржај

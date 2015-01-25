@@ -39,7 +39,7 @@ zh-CN:
         see: 查看网站
         switch: 切换到另一个网站
         help: 帮助
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: 退出
       menu:
         contents: 内容

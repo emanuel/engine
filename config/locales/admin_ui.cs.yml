@@ -39,7 +39,7 @@ cs:
         see: Ukázat web
         switch: Přepnout na jiný web
         help: Nápověda
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Odhlášení
       menu:
         contents: Obsahy

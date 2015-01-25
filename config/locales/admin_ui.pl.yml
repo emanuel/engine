@@ -39,7 +39,7 @@ pl:
         see: Obejrzyj stronę
         switch: Przełącz na inną stronę
         help: Pomoc
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Wyloguj
       menu:
         contents: Zawartość

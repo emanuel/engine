@@ -49,7 +49,7 @@ de:
         see: Webseite zeigen
         switch: Webseite wechseln
         help: Hilfe
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Ausloggen
       menu:
         contents: Inhalte

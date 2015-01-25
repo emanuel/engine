@@ -39,7 +39,7 @@ ru:
         see: Сайт
         switch: К другому сайту
         help: Справка
-        help_url: doc.locomotivecms.com
+        help_url: http://doc.locomotivecms.com
         logout: Выйти
       menu:
         contents: Содержимое
